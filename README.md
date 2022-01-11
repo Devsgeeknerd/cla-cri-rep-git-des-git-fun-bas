@@ -13,4 +13,4 @@
 
 ## INFORMAÇÕES
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devgeeknerd. "Total de Visitas")
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Devgeeknerd.git-zp "Total de Visitas")
